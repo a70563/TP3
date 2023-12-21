@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Test Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'OFICINA WINRAR',
+  tagline: 'Tudo oque necessita ao seu dispor o mais rápido possível.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
