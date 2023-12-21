@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Serviços',
+            label: 'Oficina',
           },
           {to: '/blog', label: 'Sobre Nós', position: 'left'},
           {
@@ -89,16 +89,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Oficina',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Serviços',
+                to: '/docs/Serviços',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Sobre Nós',
             items: [
               {
                 label: 'Stack Overflow',
@@ -115,20 +115,20 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Info',
             items: [
               {
-                label: 'Blog',
+                label: 'Contactos',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'Morada',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OFICINA WINRAR, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
