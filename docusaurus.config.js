@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Serviços',
-                to: '/docs/Serviços',
+                to: '/docs/',
               },
             ],
           },
