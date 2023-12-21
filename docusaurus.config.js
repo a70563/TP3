@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OFICINA WINRAR',
-  tagline: 'Tudo oque necessita ao seu dispor o mais rápido possível.',
+  tagline: 'Tudo o que necessita ao seu dispor o mais rápido possível.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
