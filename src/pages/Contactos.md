@@ -6,13 +6,13 @@
 <br />
 
 ## Redes Sociais:
-[Facebook](https://www.facebook.com/)
-[Instagram](https://www.instagram.com/)
-[Twitter](https://twitter.com) 
++ [Facebook](https://www.facebook.com/)
++ [Instagram](https://www.instagram.com/)
++ [Twitter](https://twitter.com) 
 <br />
   
-## Email
-oficinawinrar@email.com
+## Email:
++ oficinawinrar@email.com
 <br />
 
 ## Localização:
