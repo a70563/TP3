@@ -3,6 +3,7 @@
 
 ## Telefone:
 +351 912 345 678
++351 282 123 456
 <br />
 
 ## Redes Sociais:
@@ -10,7 +11,8 @@
 + [Instagram](https://www.instagram.com/)
 + [Twitter](https://twitter.com) 
 <br />
-  
+<br />
+
 ## Email:
 + oficinawinrar@email.com
 <br />
