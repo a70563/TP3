@@ -132,7 +132,7 @@ const config = {
             items: [
               {
                 label: 'Quem Somos',
-                to: 'Quem Somos',
+                to: 'QuemSomos',
               },
             ],
           },
