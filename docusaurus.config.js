@@ -89,11 +89,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Oficina',
+            title: 'Serviços',
             items: [
               {
-                label: 'Serviços',
-                to: '/docs/Serviços',
+                label: 'Cortesia',
+                to: '/docs/Serviços/Cortesia',
+              },
+              {
+                label: 'Revisão',
+                to: '/docs/Serviços/Revisão',
+              },
+            ],
+          },
+          {
+            title: 'Preçário',
+            items: [
+              {
+                  label: 'Cortesia',
+                  to: '/docs/Preçário/Cortesia',
+              },
+              {
+                label: 'Reparação',
+                to: '/docs/Preçário/Reparação',
+              },
+            ],
+          },
+          {
+            title: 'Recrutamento',
+            items: [
+              {
+                  label: 'Emprego',
+                  to: '/docs/Recrutamento/Emprego',
+              },
+              {
+                label: 'Estágio',
+                to: '/docs/Recrutamento/Estágio',
               },
             ],
           },
@@ -119,7 +149,7 @@ const config = {
             items: [
               {
                 label: 'Contactos',
-                to: '/blog',
+                to: 'Contacto-nos',
               },
               {
                 label: 'Morada',
