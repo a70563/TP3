@@ -1,5 +1,4 @@
 # Contactos:
-
 <br />
 
 ## Telefone:
@@ -8,14 +7,14 @@
     <br />
 
 ## Redes Sociais:
-    + [Facebook](https://www.facebook.com/)
-    + [Instagram](https://www.instagram.com/)
-    + [Twitter](https://twitter.com)
+  + [Facebook](https://www.facebook.com/)
+  + [Instagram](https://www.instagram.com/)
+  + [Twitter](https://twitter.com)
   
    <br />
   
 ## Email
-    + oficinawinrar@email.com
+  + oficinawinrar@email.com
 
   <br />
 
