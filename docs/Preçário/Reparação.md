@@ -5,7 +5,7 @@
 ## Reparação de rotina:
 
 |  Preço € | Tempo | Descrição |
-| ------  | ----------- | --------- |
+| ------ | ----------- | --------- |
 | 10€ | 10 minutos | Troca de luz de farol ou pisca|
 | 15€ | 10 minutos | Troca de escovas de limpa vidros |
 | 25€ | 10 minutos | Alinhamento de direção.|
@@ -20,7 +20,7 @@
 ## Reparação Mecânica:
 
 | Preço p/hora | Descrição |
-| ---|---|
+| --- | --- |
 | 7€ | Bate-chapas |
 | 7€ | Pintar danos |
 | 10€ | Reparação de vidros |
@@ -31,7 +31,7 @@
 ## Reparação Elétrica:
 
 | Preço p/hora | Descrição |
-| ---|---|
+| ---| --- |
 | 7€ | Troca de sensores |
 | 7€ | Reparaçáo de terminais |
 | 10€ | Instalação de sistemas elétricos pós compra |
