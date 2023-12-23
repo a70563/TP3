@@ -2,7 +2,7 @@
 
 <br />
 
-## Precisa de uma oficina mecânica?
+## Precisa de uma oficina mecânica automóvel?
 
 A Oficina WINRAR é uma oficina de reparação automóvel multimarca com várias oficinas distribuídas por todo o Algarve e vencedora de prémios 5 Estrelas, Escolha do Consumidor e Marca Recomendada em 2023.
 
