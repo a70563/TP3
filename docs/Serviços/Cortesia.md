@@ -21,6 +21,8 @@ Com o serviço de carro de cortesia, poderá continuar com a sua rotina, sem que
 
 <br />
 
-## Precisa de uma via
+## Precisa de alugar um viatura?
+
+Pode alugar uma das nossas viaturas de cortesia sem ter um dos seus veículos nas nossas oficina [aqui.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Cortesia)
 
 ![cortesiaimagem](https://cdn.discordapp.com/attachments/1049372613945851975/1188091547024105512/5.png?ex=6599437a&is=6586ce7a&hm=ad00a16ce9854e7b916cb1cd1377f5fb607610b3fff4a7453d011ef40f7f5ed9&)
