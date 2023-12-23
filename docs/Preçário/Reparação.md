@@ -1,3 +1,23 @@
+## Reparação Elétrica:
+
+| Preço p/hora | Descrição |
+| ---| --- |
+| 7€ | Troca de sensores |
+| 7€ | Reparaçáo de terminais |
+| 10€ | Instalação de sistemas elétricos pós compra |
+| 10€ | Reparação ou troca de fios elétricos |
+<br />
+
+## Reparação Mecânica:
+
+| Preço p/hora | Descrição |
+| --- | --- |
+| 7€ | Bate-chapas |
+| 7€ | Pintar danos |
+| 10€ | Reparação de vidros |
+| 10€ | Troca ou reparação de peças |
+<br />
+
 ## Reparação de rotina:
 
 |  Preço € | Tempo | Descrição |
@@ -12,21 +32,5 @@
 | 250€ | 30 minutos |Recarga de Ar condicionado|
 <br />
 
-## Reparação Mecânica:
 
-| Preço p/hora | Descrição |
-| --- | --- |
-| 7€ | Bate-chapas |
-| 7€ | Pintar danos |
-| 10€ | Reparação de vidros |
-| 10€ | Troca ou reparação de peças |
-<br />
 
-## Reparação Elétrica:
-
-| Preço p/hora | Descrição |
-| ---| --- |
-| 7€ | Troca de sensores |
-| 7€ | Reparaçáo de terminais |
-| 10€ | Instalação de sistemas elétricos pós compra |
-| 10€ | Reparação ou troca de fios elétricos |
