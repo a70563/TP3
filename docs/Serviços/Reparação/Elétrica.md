@@ -1,7 +1,5 @@
 # Elétrica
 
-
-
 ## Precisa de uma oficina eletrica automóvel
 
 Os centros da SPG Oficinas são oficinas de carros especializadas na manutenção reativa do sistema elétrico e eletrónico dos carros.
