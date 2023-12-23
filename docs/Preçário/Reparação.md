@@ -1,7 +1,11 @@
 # Preços de Reparação
 
+<br />
+<br />
 
 ## Reparação de rotina:
+
+<br />
 
 |  Preço € | Tempo | Descrição |
 | ------  | ----------- | --------- |
@@ -14,8 +18,12 @@
 | 90€ | 15 minutos | Troca de bateria. |
 | 250€ | 30 minutos |Recarga de Ar condicionado|
 
+<br />
+<br />
 
 ## Reparação Mecânica:
+
+<br />
 
 | Preço p/hora | Descrição |
 | ---|---|
@@ -24,8 +32,12 @@
 | 10€ | Reparação de vidros |
 | 10€ | Troca ou reparação de peças |
 
+<br />
+<br />
 
 ## Reparação Elétrica:
+
+<br />
 
 | Preço p/hora | Descrição |
 | ---|---|
