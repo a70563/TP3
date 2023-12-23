@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/cortesia.svg').default,
     description: (
       <>
-      Viaturas de cortesia para subtituição do seu veículo, ou aluguer.<code>docs</code> directory.
+      Viaturas de cortesia para subtituição do seu veículo, ou aluguer.
       </>
     ),
   },
