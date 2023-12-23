@@ -95,10 +95,6 @@ const config = {
                 label: 'Cortesia',
                 to: '/docs/Serviços/Cortesia',
               },
-              {
-                label: 'Revisão',
-                to: '/docs/Serviços/Revisão',
-              },
             ],
           },
           {
