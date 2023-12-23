@@ -1,5 +1,7 @@
 ## Viaturas e preços:
 
+<br />
+
 | Preço p/dia | Classe | Descrição |
 | ------ | ----------- | --------- |
 | 10€ | Classe A | Fiat 500 ou parecido. |

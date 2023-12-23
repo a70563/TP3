@@ -1,11 +1,8 @@
 # Preços de Reparação
 
 <br />
-<br />
 
 ## Reparação de rotina:
-
-<br />
 
 |  Preço € | Tempo | Descrição |
 | ------  | ----------- | --------- |
@@ -19,11 +16,8 @@
 | 250€ | 30 minutos |Recarga de Ar condicionado|
 
 <br />
-<br />
 
 ## Reparação Mecânica:
-
-<br />
 
 | Preço p/hora | Descrição |
 | ---|---|
@@ -33,11 +27,8 @@
 | 10€ | Troca ou reparação de peças |
 
 <br />
-<br />
 
 ## Reparação Elétrica:
-
-<br />
 
 | Preço p/hora | Descrição |
 | ---|---|
