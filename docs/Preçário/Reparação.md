@@ -1,7 +1,3 @@
-# Preços de Reparação
-
-<br />
-
 ## Reparação de rotina:
 
 |  Preço € | Tempo | Descrição |
@@ -14,7 +10,6 @@
 | 75€  | 30 minutos |Oleo dos travões.|
 | 90€ | 15 minutos | Troca de bateria. |
 | 250€ | 30 minutos |Recarga de Ar condicionado|
-
 <br />
 
 ## Reparação Mecânica:
@@ -25,7 +20,6 @@
 | 7€ | Pintar danos |
 | 10€ | Reparação de vidros |
 | 10€ | Troca ou reparação de peças |
-
 <br />
 
 ## Reparação Elétrica:
