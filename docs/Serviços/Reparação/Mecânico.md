@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Mecânica
 ## Precisa de uma oficina mecânica automóvel?
 

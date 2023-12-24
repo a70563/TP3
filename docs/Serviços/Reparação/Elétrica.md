@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Elétrica
 
 ## Precisa de uma oficina eletrica automóvel?
