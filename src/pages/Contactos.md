@@ -8,6 +8,18 @@
 
 <br />
 
+## Horário de Funcionamento:
+
++ Segunda:  9:00 - 17:00
++ Terça:    9:00 - 17:00
++ Quarta:   9:00 - 17:00
++ Quinta:   9:00 - 17:00
++ Sexta:    9:00 - 17:00
++ Sábado:   9:00 - 17:00
++ Domingo:    FECHADO
+
+<br />
+
 ## Redes Sociais:
 + [Facebook](https://www.facebook.com/)
 + [Instagram](https://www.instagram.com/)
