@@ -11,7 +11,7 @@ Pode contactar-nos a partir do nosso email com a seguinte informação:
 + Possível remuneração de estágio
 <br />
 
-Email de contacto: oficinawinrar@email.com
+Email de contacto: oficinawinrarrecrutamento@email.com
 
 <br />
 

@@ -17,6 +17,8 @@
 
 ## Email:
 + oficinawinrar@email.com
++ oficinawinrarrecrutamento@email.com
++ oficinawinrarcortesia@email.com
 
 <br />
 
