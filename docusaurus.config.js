@@ -96,7 +96,7 @@ const config = {
                 to: '/docs/Serviços/Cortesia',
               },
               {
-                label: 'Reparação',
+                label: 'Revisão',
                 to: '/docs/Revisão/Marcação',
               },
             ],
@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Reparação',
-                to: '/docs/Preçário/Reparação/Elétrica',
+                to: '/docs/Preçário/Reparação',
               },
             ],
           },
