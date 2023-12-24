@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Cortesia
-
 ## Informação
 
 Na Oficina Winrar, acreditamos que não precisa de renunciar à sua mobilidade e é por isso que acreditamos que, mesmo que o seu carro precise de ficar parado nas nossas oficinas, você deve poder continuar a movimentar-se.

@@ -95,6 +95,10 @@ const config = {
                 label: 'Cortesia',
                 to: '/docs/Serviços/Cortesia',
               },
+              {
+                label: 'Reparação',
+                to: '/docs/Serviços/Reparação',
+              },
             ],
           },
           {
