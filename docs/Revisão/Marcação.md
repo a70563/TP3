@@ -11,5 +11,5 @@ Aqui estão diponibilizados os horários em que são feitas as revisões:
 |                     |   15:00 - 17:00 |                 |
 
 Para marcar a sua revisão ligue para:
-:telephone_receiver: +351 912 345 678
-:telephone_receiver: +351 282 123 456
++ :telephone_receiver: +351 912 345 678
++ :telephone_receiver: +351 282 123 456
