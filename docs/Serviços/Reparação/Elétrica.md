@@ -21,6 +21,6 @@ Desde testes simples as baterias até mesmo a troca das mesmas disponibolizamos 
 + Diagnostico e troca de sensores.
 
 ## Deseja ver os nossos preços?
-Pode encontrar os nosso preços acessiveis a todos [AQUI.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Repara%C3%A7%C3%A3o)
+Pode encontrar os nossos preços acessiveis a todos [AQUI.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Repara%C3%A7%C3%A3o)
 
 ![imagemmecanico](https://cdn.discordapp.com/attachments/1049372613945851975/1188091546235584543/3.png?ex=6599437a&is=6586ce7a&hm=251674c13355b56913d0853137b6037e73b591dc574247777df79339ac1e6ad1&)
