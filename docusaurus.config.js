@@ -97,7 +97,7 @@ const config = {
               },
               {
                 label: 'Reparação',
-                to: '/docs/Serviços/Reparação',
+                to: '/docs/Revisão/Marcação',
               },
             ],
           },
@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Reparação',
-                to: '/docs/Preçário/Reparação',
+                to: '/docs/Preçário/Reparação/Elétrica',
               },
             ],
           },
