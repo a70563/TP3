@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Emprego
 
 ## Procura emprego numa das nossas oficinas?

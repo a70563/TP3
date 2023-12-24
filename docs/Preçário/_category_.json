@@ -1,0 +1,8 @@
+{
+	"label": "Preçário",
+	"position": 4,
+	"link": {
+		"type": "generated-index",
+		"description": "Aqui contemos todos os preços de forma organizada dos nossos serviços." 
+  	}
+}

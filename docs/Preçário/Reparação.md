@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 ## Reparação Elétrica:
 
 | Preço p/hora | Descrição |
