@@ -6,12 +6,10 @@ sidebar_position: 1
 ## Precisa de uma oficina eletrica automóvel?
 As oficinas WINRAR são certificadas na manutenção e reparação de sistemas elétricos e eletrónicos de carros.
 Quando falamos em manutenção automóvel, é provável que a primeira coisa que nos vem à cabeça são os componentes como a embraiagem, o motor ou os pneus. Apesar da mecânica ainda continuar a ser uma parte importante da manutenção de um veículo, o sistema eletrónico também é fundamental para o bom funcionamento de um carro.
-<br />
 
 ## Que serviços disponibolizamos?
 Trabalhamos em viaturas eletricas, desde manutenção ativa e preventiva como também reparação de viaturas eletricas.
 Desde testes simples as baterias até mesmo a troca das mesmas disponibolizamos quase qualquer todo o tipo de serviço relacionado com viaturas elétricas.
-<br />
 
 ## Lista de serviços eletricos:
 
@@ -21,7 +19,6 @@ Desde testes simples as baterias até mesmo a troca das mesmas disponibolizamos 
 + Manutençao e troca de baterias.
 + Reparação ou troca de cabos eletricos.
 + Diagnostico e troca de sensores.
-<br />
 
 ## Deseja ver os nossos preços?
 Pode encontrar os nosso preços acessiveis a todos [AQUI.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Repara%C3%A7%C3%A3o)

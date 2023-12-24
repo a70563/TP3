@@ -6,11 +6,9 @@ sidebar_position: 3
 ## Precisa de serviços de rotina na sua viatura?
 Confie na Oficina WINRAR para fornecer serviços de rotina excepcionais. Agende sua manutenção conosco e experimente a tranquilidade de saber que seu veículo está em mãos especializadas. Estamos aqui para manter seu carro funcionando suavemente, quilômetro após quilômetro.
 Seja bem-vindo à Oficina WINRAR, a sua escolha premiada para serviços de mecânica automóvel no Algarve. Com várias oficinas estrategicamente distribuídas, somos reconhecidos com prémios 5 Estrelas, Escolha do Consumidor e Marca Recomendada em 2023.
-<br />
 
 ## Que serviços disponibolizamos?
 Na Oficina WINRAR, oferecemos uma gama abrangente de serviços especializados em manutenção e reparação automóvel. Nossas equipas altamente qualificadas estão prontas para lidar com qualquer problema do seu veículo, garantindo soluções eficientes e profissionais.
-<br />
 
 ## Lista de Serviços de Rotina:
 
@@ -21,7 +19,6 @@ Na Oficina WINRAR, oferecemos uma gama abrangente de serviços especializados em
 + Troca de Filtros
 + Alinhamento e Balanceamento
 + Diagnóstico Eletrônico
-<br />
 
 ## Deseja ver os nossos preços?
 Pode encontrar os nosso preços acessiveis a todos [AQUI.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Repara%C3%A7%C3%A3o)
