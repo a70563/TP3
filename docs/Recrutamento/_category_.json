@@ -1,8 +1,9 @@
 {
-    "label": "Recrutamento",
-    "position": 4,
-    "link": {
-      "type": "generated-index",
-      "description":"Na nossa oficina, não apenas consertamos veículos, mas também construímos carreiras sólidas. Valorizamos a dedicação, a criatividade e o comprometimento, buscando constantemente indivíduos talentosos que desejam crescer conosco. \n Queremos proporcionar uma experiência de estágio ou emprego enriquecedora, onde suas habilidades serão aprimoradas e suas contribuições serão valorizadas. \n Estamos comprometidos em promover um ambiente inclusivo e acolhedor, onde cada membro da equipe se sinta valorizado e respeitado. Junte-se a nós na busca de evolução e experiência neste ramo que tanto amamos."
-    }
+  "label": "Recrutamento",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Na nossa oficina, não apenas consertamos veículos, mas também construímos carreiras sólidas. Valorizamos a dedicação, a criatividade e o comprometimento, buscando constantemente indivíduos talentosos que desejam crescer conosco.\nQueremos proporcionar uma experiência de estágio ou emprego enriquecedora, onde suas habilidades serão aprimoradas e suas contribuições serão valorizadas.\nEstamos comprometidos em promover um ambiente inclusivo e acolhedor, onde cada membro da equipe se sinta valorizado e respeitado. Junte-se a nós na busca de evolução e experiência neste ramo que tanto amamos.",
+    "image": "https://cdn.discordapp.com/attachments/1049372613945851975/1188091546600476783/4.png?ex=6599437a&is=6586ce7a&hm=dcb37328b7a382d9d58684687d852d6eb43e165da9739780fc19186c276fc221&"
   }
+}
