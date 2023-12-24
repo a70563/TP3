@@ -9,11 +9,10 @@ sidebar_position: 1
 Na Oficina Winrar, acreditamos que não precisa de renunciar à sua mobilidade e é por isso que acreditamos que, mesmo que o seu carro precise de ficar parado nas nossas oficinas, você deve poder continuar a movimentar-se.
 Com o serviço de carro de cortesia, poderá continuar com a sua rotina, sem que a visita às nossas oficinas se torne um inconveniente.
 
-## O precisa saber?
+### O precisa saber?
 + Disponibolizamos viaturas de cortesia e trabalhamos com a sua seguradora.
 + Descontos para clientes regulares que necessitam de viatura de cortesia.
 + Aluger de veiculos mesmo não tendo uma viatura na oficina.
-
 <br />
 //colocar imagem aqui
 
