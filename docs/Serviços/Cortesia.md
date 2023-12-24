@@ -16,7 +16,7 @@ Com o serviço de carro de cortesia, poderá continuar com a sua rotina, sem que
 //colocar imagem aqui
 
 ## Tem uma seguradora que paga pela viatura de cortesia?
-Nesta oficina, desejamos certificar sempre da melhor opção para o nosso cliente. Se tiver uma seguradora que pode ajudar nos custos de uma viatura de cortesia, é a sua chance.
+<b> Nesta <b> oficina, desejamos certificar sempre da melhor opção para o nosso cliente. Se tiver uma seguradora que pode ajudar nos custos de uma viatura de cortesia, é a sua chance.
 Caso não tenha essa opção, iremos arranjar uma solução para o seu caso, para deste modo facilitar e ajudar da melhor maneira possível. 
 Para qualquer uma das opções entre em [contacto](https://a70563.github.io/TP3/Contactos), para avaliarmos o seu caso e ajudar da forma que podermos. 
 
