@@ -1,5 +1,9 @@
 ---
 sidebar_position: 1
+slug: Dono
+title: Dono
+authors: [joao]
+tags: [dono, história]
 ---
 
 # Dono das Oficinas
