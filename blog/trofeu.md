@@ -1,8 +1,12 @@
 ---
 sidebar_position: 3
+slug: Prêmio 2023
+title: Prêmio 2023
+authors: [joao]
+tags: [dono, história, empresa, premio, prêmio, serviço]
 ---
 
-# Prêmio de Excelência de Serviços
+# Prêmio de Excelência de Serviços 2023
 
 Oficina WINRAR Recebe Prestigioso Prêmio de Excelência em Serviços Automotivos
 
