@@ -1,5 +1,9 @@
 ---
 sidebar_position: 2
+slug: História da Empresa
+title: História da Empresa
+authors: [joao]
+tags: [dono, história, empresa]
 ---
 
 # História
