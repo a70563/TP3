@@ -26,7 +26,7 @@ Contamos com uma gama abrangente de serviços, desde a manutenção básica até
     + Motocilcos;
     + Carrinhas.
 
-### [Revisão do seu Veiculo](/docs/Revisão)
+### Revisão do seu Veiculo
 Poderá fazer a revisão do seu veiculo connosco, fornecemos assim:
 + [Horários de marcação](/docs/Revisão/Marcação.md)
 + [Preços](/docs/Revisão/Preços.md)
@@ -35,7 +35,7 @@ Poderá fazer a revisão do seu veiculo connosco, fornecemos assim:
 + Aluguer de viatura com o seu carro na oficina
 + Aluguer sem carro na oficina
 
-### [Recrutamento](/docs/Recrutamento)
+### Recrutamento
 Desejamos recrutar pessoas qualificadas neste meio.
 + [Emprego](/docs/Recrutamento/Emprego.md)
 + [Estágio](/docs/Recrutamento//Estágio.md)
