@@ -4,10 +4,16 @@
         <title>OFICINA WINRAR Blog</title>
         <link>https://github.com/TP3/blog</link>
         <description>OFICINA WINRAR Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 16:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[teste]]></title>
+            <link>https://github.com/TP3/blog/dono</link>
+            <guid>https://github.com/TP3/blog/dono</guid>
+            <pubDate>Tue, 26 Dec 2023 16:46:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/TP3/blog/welcome</link>
