@@ -10,33 +10,41 @@ Contamos com uma gama abrangente de serviços, desde a manutenção básica até
 
 ### Reparação
 
-+ Reparação de problemas mecânicos em: 
++ [Reparação de problemas mecânicos em:](/docs/Serviços/Reparação/Mecânico.md)
     + Viaturas Ligeiras;
     + Motociclos;
     + Carrinhas.
 
 
-+ Reparação de probemas elétricos em:
++ [Reparação de probemas elétricos em:](/docs/Serviços/Reparação/Elétrica.md)
     + Viaturas Ligeiras;
     + Motocilcos;
     + Carrinhas.
 
-### Revisão do seu Veiculo 
-Poderá fazer a revisão do seu veiculo connosco, fornecemos assim:
-+ Horários de marcação
-+ Preços
++ [Também fazemos serviços de rotina em:](/docs/Serviços/Reparação/Rotina.md)
+    + Viaturas Ligeiras;
+    + Motocilcos;
+    + Carrinhas.
 
-### Cortesia
+### [Revisão do seu Veiculo](/docs/Revisão/)
+Poderá fazer a revisão do seu veiculo connosco, fornecemos assim:
++ [Horários de marcação](/docs/Revisão/Marcação.md)
++ [Preços](/docs/Revisão/Preços.md)
+
+### [Cortesia](/docs/Serviços/Cortesia.md)
 + Aluguer de viatura com o seu carro na oficina
 + Aluguer sem carro na oficina
 
-### Recrutamento
+### [Recrutamento](/docs/Recrutamento/)
 Desejamos recrutar pessoas qualificadas neste meio.
-+ Emprego
-+ Estágio
++ [Emprego](/docs/Recrutamento/Emprego.md)
++ [Estágio](/docs/Recrutamento//Estágio.md)
 
 
 ## Vantagens de ser nosso cliente:
 + Serviços rápidos e baratos;
 + Clientes regulares só precisam de criar ficha uma vez;
 + Descontos a clientes regulares.
+
+
+![imagemlogo](https://cdn.discordapp.com/attachments/1049372613945851975/1188091545954553876/2.png?ex=6599437a&is=6586ce7a&hm=0a27c66662bc43d5e2c46703702de6cb4891a270598ac5c87c239c70c5680cd8&)
