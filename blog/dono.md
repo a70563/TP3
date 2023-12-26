@@ -14,8 +14,6 @@ Após concluir o ensino secundário, João decidiu que queria transformar a sua 
 
 Com o tempo, a reputação de João cresceu. A sua oficina tornou-se conhecida pela qualidade do trabalho, preços justos e atendimento amigável. Ele expandiu os seus serviços para incluir não apenas reparações, mas também manutenção preventiva e personalização de veículos. A sua abordagem centrada no cliente fez com que muitos clientes regressassem e recomendasse os seus serviços a amigos e familiares.
 
-O João também se adaptou às mudanças na indústria automóvel, incorporando tecnologias avançadas na sua oficina. Ele passou a oferecer serviços especializados em veículos elétricos e híbridos, posicionando a sua oficina na vanguarda da tecnologia automóvel.
-
 A jornada de João é um exemplo de como a paixão, o trabalho árduo e o compromisso com a excelência podem levar ao sucesso. A sua oficina não é apenas um local para consertar carros, mas também um centro onde a comunidade se reúne em torno da paixão partilhada por automóveis.
 
 ![joao](https://cdn.discordapp.com/attachments/1049372613945851975/1189277678335963136/image.png?ex=659d9426&is=658b1f26&hm=badb5c2226f3ae42e3eae6e6cff0bee3894d8125e2b4e40e412df52251aa3729&)
