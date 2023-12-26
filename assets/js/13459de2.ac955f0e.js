@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[9763],{6847:s=>{s.exports=JSON.parse('{"label":"hist\xf3ria","permalink":"/TP3/blog/tags/historia","allTagsPath":"/TP3/blog/tags","count":2}')}}]);
