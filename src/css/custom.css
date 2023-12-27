@@ -19,7 +19,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: ##004aac;
+  --ifm-color-primary: #004aac;
   --ifm-color-primary-dark: #194b79;
   --ifm-color-primary-darker: #0c2761;
   --ifm-color-primary-darkest: #061e6b;
@@ -42,4 +42,13 @@
 .navbar a {
   color: #ffffff; /* Substitua pela cor desejada para o texto */
 }
+
+/* Arquivo custom.css */
+
+/* Alterar a cor do --ifm-color-primary na Navbar */
+.navbar {
+  --ifm-color-primary: #ffffff; /* Substitua pela cor desejada */
+}
+
+/* Outras variáveis de cor do tema podem ser alteradas aqui, se necessário */
 
