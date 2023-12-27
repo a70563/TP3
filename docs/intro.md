@@ -9,6 +9,12 @@ A nossa oficina oferece uma variedade de serviços para manter e reparar automó
 Contamos com uma gama abrangente de serviços, desde a manutenção básica até reparos especializados, garantindo que o veículo receba a atenção que merece. Alguns dos serviços embaixo mencionados:
 
 ### Reparação
+| [Reparação de problemas mecânicos em:](/docs/Serviços/Reparação/Mecânico.md) | [Reparação de problemas mecânicos em:](/docs/Serviços/Reparação/Mecânico.md) | [Reparação de probemas elétricos em:](/docs/Serviços/Reparação/Elétrica.md) |
+| Viaturas Ligeiras  | Viaturas Ligeiras | Viaturas Ligeiras  |
+| Motociclos | Motociclos | Motociclos |
+| Carrinhas | Carrinhas | Carrinhas |
+
+<br />
 
 + [Reparação de problemas mecânicos em:](/docs/Serviços/Reparação/Mecânico.md)
     + Viaturas Ligeiras;
