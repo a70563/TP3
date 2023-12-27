@@ -2,7 +2,7 @@
 sidebar_position: 3
 slug: Prêmio 2023
 title: Prêmio 2023
-authors: [joao]
+authors: [joao, luis]
 tags: [dono, história, empresa, premio, prêmio, serviço]
 ---
 
