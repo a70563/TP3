@@ -8,29 +8,26 @@ tags: [dono, história]
 
 # CEO das Oficinas
 
-## História do CEO das Oficinas WINRAR
+## João Pedro: O Visionário por Trás da WINRAR
 
-O João sempre teve uma paixão por carros desde jovem. O pai do João era mecânico, e desde cedo o João acompanhava-o na oficina, aprendendo os segredos do funcionamento dos carros e desenvolvendo habilidades práticas. A oficina do seu pai tornou-se conhecida pela qualidade do trabalho, preços justos e atendimento amigável. 
+João Pedro, o fundador e mente visionária por trás da WINRAR, 
+iniciou a sua jornada empreendedora em 2005 com uma visão única para o setor automotivo. Ao longo dos anos, ele liderou a expansão da empresa, enfrentando desafios econômicos com criatividade e mantendo um compromisso inabalável com a qualidade. Com a abertura de nove oficinas estrategicamente posicionadas, João transformou a WINRAR em uma referência regional e nacional, em serviços automotivos. A busca pela inovação, responsabilidade social e paixão pelo mundo automotivo moldaram não apenas a sua carreira, mas também o sucesso duradouro da WINRAR.
 
-Durante a sua via o João tirou vários cursos e certificados relacionados com veículos automóveis que o ajudaram a tornar-se um excelent mecânico.  
-A jornada de João é um exemplo de como a paixão, o trabalho árduo e o compromisso com a excelência podem levar ao sucesso.
+Como líder, João cultiva uma cultura empresarial baseada no respeito mútuo, na valorização dos colaboradores e no estímulo à criatividade. Sua visão de longo prazo não se limita apenas ao crescimento da WINRAR, mas também à construção de um legado sustentável e socialmente responsável.
+O sucesso de João Pedro como empreendedor não é apenas uma história de triunfo comercial, mas um testemunho, dedicação e um profundo amor pelo que faz.
 
 ![joao](https://cdn.discordapp.com/attachments/1049372613945851975/1189647128641941665/perfilCEO.png?ex=659eec3a&is=658c773a&hm=58e8fc9f1dbe41736803ab734555b47fd257ee7d802c311a0bad0678a4372e31&)
 
 ## Certificações Académicas
 
-+ Certificação em Mecânica Automotiva
++ Mestrado em Engenharia Mecânica:
 
-+ Certificação em Eletrônica Automotiva
++ Mestrado em Tecnologia Automotiva:
 
-+ Certificação em Diagnóstico de Motores
++ Mestrado em Sistemas de Controle e Diagnóstico de Veículos
 
-+ Certificação em Ar Condicionado Automotivo
++ Licenciatura Gestão da Indústria Automotiva
 
-+ Certificação em Tecnologias de Propulsão Alternativa
-
-+ Certificação em Segurança Veicular
-
-+ Certificação de Técnico Master ASE (Automotive Service Excellence)
++ Licenciatura de Engenharia de Energias Renováveis para Transportes
 
 <button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>
