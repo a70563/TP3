@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
-slug: Vida Académica
-title: Vida Académica
+slug: Amizade ou Trabalho?
+title: Amizade ou Trabalho?
 authors: [luis]
 tags: [dono, história, empresa, premio, serviço]
 ---
