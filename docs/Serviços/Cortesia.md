@@ -14,7 +14,10 @@ Com o serviço de carro de cortesia, poderá continuar com a sua rotina, sem que
 + Aluger de veiculos mesmo não tendo uma viatura na oficina.
 <br />
 
-![cortesia](https://cdn.discordapp.com/attachments/1049372613945851975/1189544508870901810/cortesia_2.jpg?ex=659e8ca7&is=658c17a7&hm=f7ed0bfeaf1d55b6ec8c9f48922fbf075f868463c76149ff814e03b48941f75d&)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1049372613945851975/1189544508870901810/cortesia_2.jpg?ex=659e8ca7&is=658c17a7&hm=f7ed0bfeaf1d55b6ec8c9f48922fbf075f868463c76149ff814e03b48941f75d&" alt="Texto alternativo">
+</p>
+
 
 ## Tem uma seguradora que paga pela viatura de cortesia?
 Nesta oficina, desejamos certificar sempre da melhor opção para o nosso cliente. Se tiver uma seguradora que pode ajudar nos custos de uma viatura de cortesia, é a sua chance.
