@@ -30,7 +30,7 @@ O nosso serviço de cortesia além de se aplicar a viaturas que necessitam de se
 ![cortesiaimagem](https://cdn.discordapp.com/attachments/1049372613945851975/1189592845401739315/WINRAR.png?ex=659eb9ab&is=658c44ab&hm=2a8740e893ed6c1afcc3946504f1dbc1e8d5c9ab35ccb3f935a0f46559352137&)
 <br />
 
- Caso necessite de nos contactar acerca deste serviços, esteja livre para nos contactar:
+ Caso necessite de nos contactar acerca deste serviços, esteja livre para o fazer:
  + :telephone_receiver: +351 912 345 678
  + :telephone_receiver: +351 282 123 456
  + oficinawinrarcortesia@email.com
