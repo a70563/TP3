@@ -13,8 +13,6 @@ Quando falamos em manutenção automóvel, é provável que a primeira coisa que
 Trabalhamos em viaturas eletricas, desde manutenção ativa e preventiva como também reparação de viaturas eletricas.
 Desde testes simples as baterias até mesmo a troca das mesmas disponibolizamos quase qualquer todo o tipo de serviço relacionado com viaturas elétricas.
 
-![repeletrico](https://cdn.discordapp.com/attachments/1049372613945851975/1189598329986883684/repeletrica.png?ex=659ebec7&is=658c49c7&hm=f01ab8f2c4b667e1ae844db63bf7ca5dc6fe5ccd2b17834f9bb29c9cfa73ca9a&)
-
 ## Lista de serviços elétricos:
 
 + Manutenção e reposição do liquido de refirgeração.
