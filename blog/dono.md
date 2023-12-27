@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
-slug: Dono
-title: Dono
+slug: CEO
+title: CEO
 authors: [joao]
 tags: [dono, história]
 ---
 
-# Dono das Oficinas
+# CEO das Oficinas
 
-## História do Dono das Oficinas WINRAR
+## História do CEO das Oficinas WINRAR
 
 O João sempre teve uma paixão por carros desde jovem. O pai do João era mecânico, e desde cedo o João acompanhava-o na oficina, aprendendo os segredos do funcionamento dos carros e desenvolvendo habilidades práticas. A oficina do seu pai tornou-se conhecida pela qualidade do trabalho, preços justos e atendimento amigável. 
 
