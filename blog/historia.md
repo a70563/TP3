@@ -28,6 +28,8 @@ Em meio a desafios econômicos, a WINRAR enfrenta uma recessão, mas mantém sua
 ### Capítulo 6: Diversificação (2018)
 Reconhecendo a importância da diversificação, a WINRAR amplia seus serviços para incluir personalização de veículos e venda de peças. A empresa agora se posiciona como um centro automotivo completo.
 
+![automotivo](https://cdn.discordapp.com/attachments/722820894342381688/1189698573697302679/automotivo.png?ex=659f1c23&is=658ca723&hm=263ddfe3723fa94d905f4897eaeaf351cd8037a1fdc19fd7a7d95beb3cb822f4&)
+
 ### Capítulo 7: Expansão Regional (2020)
 Com a consolidação no mercado local, a WINRAR decide expandir-se regionalmente. Abre novas oficinas em cidades próximas, mantendo a mesma filosofia que a tornou bem-sucedida.
 
