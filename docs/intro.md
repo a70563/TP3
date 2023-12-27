@@ -5,7 +5,7 @@ sidebar_position: 1
 # Oficina
 A nossa oficina oferece uma variedade de serviços para manter e reparar automóveis. Na nossa oficina, combinamos a mais recente tecnologia automotiva com a dedicação tradicional ao artesanato automotivo, proporcionando um ambiente confiável e amigável para os nossos clientes. Entendemos a importância do seu veículo na sua vida diária e esforçamo-nos para oferecer um serviço que vá além das expectativas e sempre a melhorar.
 
-![oficina](https://cdn.discordapp.com/attachments/1049372613945851975/1189621765173940244/oficina.png?ex=659ed49a&is=658c5f9a&hm=b2b9d4d91808f3c0ddf6f7c548807ebab93faeffeae63c3d44af92e308680a19&)
+![oficina](https://cdn.discordapp.com/attachments/1049372613945851975/1189622631851376751/oficina.png?ex=659ed569&is=658c6069&hm=508d951bd41ec9e72787119f9d911c0f8f0384629a6a219fdddbc56a04d1391c&)
 
 ## Serviços
 Contamos com uma gama abrangente de serviços, desde a manutenção básica até reparos especializados, garantindo que o veículo receba a atenção que merece. Alguns dos serviços embaixo mencionados:
