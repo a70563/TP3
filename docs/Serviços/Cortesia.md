@@ -27,4 +27,4 @@ Para qualquer uma das opções entre em [contacto](https://a70563.github.io/TP3/
 ## Precisa de alugar um viatura?
 O nosso serviço de cortesia além de se aplicar a viaturas que necessitam de ser vistos pelas nossas oficinas, também se aplica a quem apenas deseja alugar uma das nossas viaturas em caso de necessidade. Não temos essa limitação, sinta-se confortável e faça o aluguer connosco, iremos ajudar em tudo. Para mais informações sobre os veiculos de cortesia, verifique, [aqui.](https://a70563.github.io/TP3/docs/Pre%C3%A7%C3%A1rio/Cortesia)
 
-![cortesiaimagem](https://cdn.discordapp.com/attachments/1049372613945851975/1189591905110069308/WINRAR.png?ex=659eb8cb&is=658c43cb&hm=e7fa25dbcb3310e2123ff0af6fc9fafd6b1021fab49b0e30438eadef35f54b5c&)
+![cortesiaimagem](https://cdn.discordapp.com/attachments/1049372613945851975/1189592845401739315/WINRAR.png?ex=659eb9ab&is=658c44ab&hm=2a8740e893ed6c1afcc3946504f1dbc1e8d5c9ab35ccb3f935a0f46559352137&)
