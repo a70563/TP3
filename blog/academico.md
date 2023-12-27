@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
-slug: Amizade ou Trabalho?
-title: Amizade ou Trabalho?
+slug: Amizade
+title: Amizade
 authors: [luis]
 tags: [dono, história, empresa, premio, serviço]
 ---
