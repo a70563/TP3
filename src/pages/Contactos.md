@@ -3,19 +3,6 @@
 + :telephone_receiver: +351 912 345 678
 + :telephone_receiver: +351 282 123 456
 
-## Horário de Funcionamento:
-
-|      Dia      | Aberto         | Almoço            | Fecho       |
-| ------------- | ----------------- | ----------------- | ----------------- |
-| Segunda       | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Terça         | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Quarta        | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Quinta        | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Sexta         | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Sábado        | 9:00 - 12:30     | 12:30 - 13:30     | 17:00             |
-| Domingo       | FECHADO          | -                 | -                 |
-
-
 ## Redes Sociais:
 + [Facebook](https://www.facebook.com/)
 + [Instagram](https://www.instagram.com/)
