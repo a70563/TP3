@@ -23,9 +23,10 @@ Como líder, João cultiva uma cultura empresarial baseada no respeito mútuo, n
 Sua visão de longo prazo não se limita apenas ao crescimento da WINRAR, mas também à construção de um legado sustentável e socialmente responsável.
 O sucesso de João Pedro como empreendedor não é apenas uma história de triunfo comercial, mas um testemunho, dedicação e um profundo amor pelo que faz.
 
-![UALG](https://cdn.discordapp.com/attachments/722820894342381688/1189691329136033894/Design_sem_nome_1.png?ex=659f1564&is=658ca064&hm=761dd8d57cd6322f1fea70173ea3be4348260b2fe039a99d1033fc2ea10b0425&)
-
 ## Certificações Académicas
+Passados uns, longos 8 anos na Universidade do Algarve João conseguiu obter todas as certificações académicas que tanto desejava desde cedo.
+
+![UALG](https://cdn.discordapp.com/attachments/722820894342381688/1189691329136033894/Design_sem_nome_1.png?ex=659f1564&is=658ca064&hm=761dd8d57cd6322f1fea70173ea3be4348260b2fe039a99d1033fc2ea10b0425&)
 
 + Mestrado em Engenharia Mecânica:
 
