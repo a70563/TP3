@@ -10,9 +10,9 @@ Junte-se à Oficina WINRAR e mostre-nos as suas capacidades. Estaremos dísponiv
 
 Pode contactar-nos a partir do nosso email com a seguinte informação:
 + Curriculo;
-+ Boletim de vacinas.
-+ Qual a oficina em que procura emprego.
-+ A sua área de conforto de trabalho.
++ Boletim de vacinas;
++ Qual a oficina em que procura emprego;
++ A sua área de conforto de trabalho;
 
 Email de contacto: 
 + oficinawinrarrecrutamento@email.com
