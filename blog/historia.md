@@ -6,8 +6,6 @@ authors: [joao]
 tags: [dono, história, empresa]
 ---
 
-# História da Empresa WINRAR: Uma Jornada de Sucesso em 9 Capítulos
-
 ### Capítulo 1: A Fundação (2005)
 No ano de 2005, um visionário empreendedor chamado Ricardo Silva funda a WINRAR, uma empresa dedicada à manutenção e reparo de veículos. A escolha do nome é uma homenagem ao popular software de compressão, refletindo a visão da empresa de "compactar" os problemas dos clientes.
 

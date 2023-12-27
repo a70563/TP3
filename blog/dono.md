@@ -6,8 +6,6 @@ authors: [joao]
 tags: [dono, história]
 ---
 
-# CEO das Oficinas
-
 ## João Pedro: O Visionário por Trás da WINRAR
 ![joao](https://cdn.discordapp.com/attachments/1049372613945851975/1189647128641941665/perfilCEO.png?ex=659eec3a&is=658c773a&hm=58e8fc9f1dbe41736803ab734555b47fd257ee7d802c311a0bad0678a4372e31&)
 
@@ -28,7 +26,7 @@ Como líder, João cultiva uma cultura empresarial baseada no respeito mútuo, n
 Sua visão de longo prazo não se limita apenas ao crescimento da WINRAR, mas também à construção de um legado sustentável e socialmente responsável.
 O sucesso de João Pedro como empreendedor não é apenas uma história de triunfo comercial, mas um testemunho, dedicação e um profundo amor pelo que faz.
 
-![UALG](https://cdn.discordapp.com/attachments/722820894342381688/1189694556267090051/Design_sem_nome_2.png?ex=659f1865&is=658ca365&hm=ffee5ff20251cfc7cdb7632b5fec488f6562977c2ac7848e74285a289b7dd462&)
+![UALG](https://cdn.discordapp.com/attachments/722820894342381688/1189691329136033894/Design_sem_nome_1.png?ex=659f1564&is=658ca064&hm=761dd8d57cd6322f1fea70173ea3be4348260b2fe039a99d1033fc2ea10b0425&)
 
 ## Certificações Académicas
 

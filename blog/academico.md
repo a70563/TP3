@@ -1,13 +1,12 @@
 ---
 sidebar_position: 4
-slug: Amizade
-title: Amizade ou Trabalho?
+slug: Direção WINRAR
+title: Direção WINRAR
 authors: [luis]
 tags: [dono, história, empresa, premio, serviço]
 ---
 
-# Amizade ou Trabalho?
-## Qual será?
+## Amizade ou Trabalho?
  Qual o CEO que não tem o seu braço direito?
  O Diretor Executivo, Luís Rodrigues, tem uma amizade sólida com João, esta que se desenvolveu nos anos de faculdade, onde compartilharam não apenas a jornada acadêmica, mas também sonhos empreendedores. Ao formarem-se, ambos decidiram unir forças e fundar uma empresa que refletisse os seus valores e paixões compartilhadas. 
 

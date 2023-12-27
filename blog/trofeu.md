@@ -6,8 +6,6 @@ authors: [joao, luis]
 tags: [dono, história, empresa, premio, prêmio, serviço]
 ---
 
-# Prêmio de Excelência de Serviços 2023
-
 ### Oficina WINRAR Recebe Prestigioso Prêmio de Excelência em Serviços Automotivos
 
 Vila Automotiva, 26 de Fevereiro de 2023
