@@ -17,3 +17,5 @@ Na última sexta-feira, a Oficina WINRAR, dirigida pelo dedicado mecânico João
 O prêmio, concedido pela Associação Nacional de Mecânicos e Oficinas (ANMO), destaca a notável contribuição da Oficina WINRAR para a indústria automotiva, reconhecendo sua abordagem excepcional em termos de serviços mecânicos, atendimento ao cliente e inovação tecnológica.
 
 ![trofeu1](https://www.freeiconspng.com/thumbs/trophy-png/trophy-png-14.png)
+
+<button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>

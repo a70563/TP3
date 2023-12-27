@@ -15,3 +15,5 @@ As nossas oficinas não são apenas um lugar para consertar veiculos, são bespa
  Também prestamos atenção às mudanças na indústria automotiva. Investimo em treino contínuo para os nossos mecânicos, especialmente em tecnologias emergentes, como veículos elétricos e híbridos.
 
 ![imagemmecanicocartoon](https://cdn.discordapp.com/attachments/1049372613945851975/1188091546235584543/3.png?ex=6599437a&is=6586ce7a&hm=251674c13355b56913d0853137b6037e73b591dc574247777df79339ac1e6ad1&)
+
+<button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>

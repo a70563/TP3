@@ -33,4 +33,4 @@ A jornada de João é um exemplo de como a paixão, o trabalho árduo e o compro
 
 + Certificação de Técnico Master ASE (Automotive Service Excellence)
 
-<button onClick={() => alert('Obrigado pelo Like!')}>:thumbsup:</button>
+<button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>
