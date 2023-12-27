@@ -132,15 +132,15 @@ const config = {
             items: [
               {
                 label: 'Sobre Nós',
-                to: 'QuemSomos',
-              },
-              {
-                label: 'Contactos',
                 to: '/blog',
               },
               {
+                label: 'Contactos',
+                to: 'Contactos',
+              },
+              {
                 label: 'Horário',
-                to: 'Horário',
+                to: 'horario',
               },
               {
                 label: 'Sede Oficina ',
