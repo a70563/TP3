@@ -17,6 +17,8 @@ Dois anos após sua criação, a WINRAR inaugura sua primeira oficina na perifer
 ### Capítulo 3: Expansão Urbana (2010)
 Com a crescente demanda e a reputação positiva, a WINRAR abre mais duas oficinas em áreas estratégicas da cidade. A empresa se destaca pela transparência, preços justos e profissionais altamente treinados.
 
+![oficina1](https://cdn.discordapp.com/attachments/722820894342381688/1189696812064448522/local.png?ex=659f1a7f&is=658ca57f&hm=aca879787b88fe4b1559181f57d53ac67b1cac5c43cd553433e1c272f73454b5&)
+
 ### Capítulo 4: Inovação Tecnológica (2013)
 A WINRAR investe em tecnologia de ponta para diagnósticos rápidos e precisos. A introdução de softwares avançados e equipamentos de última geração coloca a empresa na vanguarda da indústria automotiva.
 
