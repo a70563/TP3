@@ -1,22 +1,10 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
 
 joao:
   name: João Pedro
-  title: Dono das Oficinas Winrar
-  image_url: https://cdn.discordapp.com/attachments/1049372613945851975/1189277678335963136/image.png?ex=659d9426&is=658b1f26&hm=badb5c2226f3ae42e3eae6e6cff0bee3894d8125e2b4e40e412df52251aa3729&g
+  title: CEO das Oficinas WINRAR
+  image_url: https://cdn.discordapp.com/attachments/1049372613945851975/1189642153136226314/CEO.png?ex=659ee797&is=658c7297&hm=13f074f9bf250f55fe8aa506a066e16c6267feede2ea72848dded30846dbd0fd&
+
+luis:
+  name: Luis Rordrigues
+  title: Diretor Executivo
+  image_url: https://cdn.discordapp.com/attachments/1049372613945851975/1189646670443585696/Exe.png?ex=659eebcc&is=658c76cc&hm=a9f7770f5540db9d7ba3018304c47f085660241bb2b5ea51eb477283c24fce4e&
