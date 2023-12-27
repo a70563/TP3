@@ -6,16 +6,16 @@ authors: [luis]
 tags: [dono, história, empresa, premio, serviço]
 ---
 
-# Vida Académica
+# Amizade ou Trabalho?
 
-"Vocês não podem imaginar o que João passou para abrir essa oficina. Lembra, pessoal, da época da universidade? Éramos todos uns jovens sonhadores, mas João... Ah, ele era diferente. Desde o início, ele tinha essa chama nos olhos, um desejo inabalável de seguir seu caminho."
-
-"Na universidade, João já se destacava. Sempre ajudava os outros, nunca deixando ninguém para trás. Mas a verdadeira jornada começou quando decidimos que queríamos mais do que diplomas na parede. João, com sua paixão por mecânica, queria abrir uma oficina. E gente, ele não teve medo de trabalhar por isso."
-
-"Quando João finalmente conseguiu abrir as portas desta oficina, foi mais do que uma realização pessoal. Foi a realização de um sonho compartilhado. E o mais incrível é que ele não esqueceu de onde veio. Sempre se esforça para ajudar os outros, tanto na mecânica quanto na vida."
+ Qual o CEO que não tem o seu braço direito? 
+ O Diretor Executivo, Luís Rodrigues, tem uma amizade sólida com João, esta que se desenvolveu nos anos de faculdade, onde compartilharam não apenas a jornada acadêmica, mas também sonhos empreendedores. Ao formarem-se, ambos decidiram unir forças e fundar uma empresa que refletisse os seus valores e paixões compartilhadas. 
+ <br />
+ 
+ João assumiu a presidência, trazendo sua visão estratégica e habilidades de liderança, enquanto Luís ocupou o cargo de diretor executivo, concentrando-se na implementação eficiente das operações. Essa parceria não apenas fortaleceu a empresa, mas também solidificou ainda mais a amizade entre eles. A combinação única de habilidades e confiança mútua permitiu que a empresa prosperasse sob a liderança conjunta de dois amigos que compartilham não apenas uma história acadêmica, mas uma visão comum para o futuro da empresa que construíram juntos.
 
 ![joaoluis](https://cdn.discordapp.com/attachments/1049372613945851975/1189642155443109958/CEOeExe.png?ex=659ee798&is=658c7298&hm=d330909ecc65899d7cb77c73d0c8e680fe8e8db19291bb80af9154ffd9ea20b0&)
 
-"A oficina de João não é apenas um lugar para consertar carros. É um símbolo de dedicação, persistência e amizade. Ele não apenas construiu uma oficina; ele construiu um lar para todos nós." - Luis Rodrigues
+**"A oficina de João não é apenas um lugar para consertar carros. É um símbolo de dedicação, persistência e amizade. Ele não apenas construiu uma oficina; ele construiu um lar para todos nós."** - Luis Rodrigues
 
 <button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>
