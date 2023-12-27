@@ -11,7 +11,7 @@ tags: [dono, história]
 ## João Pedro: O Visionário por Trás da WINRAR
 ![joao](https://cdn.discordapp.com/attachments/1049372613945851975/1189647128641941665/perfilCEO.png?ex=659eec3a&is=658c773a&hm=58e8fc9f1dbe41736803ab734555b47fd257ee7d802c311a0bad0678a4372e31&)
 
-João Pedro, o fundador e mente visionária por trás da WINRAR, 
+João Pedro, o fundador e mente visionária por trás da WINRAR, nascido a 15 de Julho de 1980
 iniciou a sua jornada empreendedora em 2005 com uma visão única para o setor automotivo. Ao longo dos anos, ele liderou a expansão da empresa, enfrentando desafios econômicos com criatividade e mantendo um compromisso inabalável com a qualidade. 
 Em 2007 com a sua primeira oficina inaugurada tudo mudou. João foi conseguindo estabelecer clientes leais, o que gerou uma maior reputação. Finalmente em 2010 João decidiu abrir mais 2 oficinas em pontos estratégicos. Foi aqui que João percebeu o impacto que estava a ter. Atualmente, João possui 9 oficinas, sendo a última inaugurada ainda este ano (2023).
 João transformou a WINRAR em uma referência regional e nacional, em serviços automotivos. A busca pela inovação, responsabilidade social e paixão pelo mundo automotivo moldaram não apenas a sua carreira, mas também o sucesso duradouro da WINRAR.
