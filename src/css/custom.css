@@ -43,12 +43,4 @@
   color: #ffffff; /* Substitua pela cor desejada para o texto */
 }
 
-/* Arquivo custom.css */
-
-/* Alterar a cor do --ifm-color-primary na Navbar */
-.navbar {
-  --ifm-color-primary: #ffffff; /* Substitua pela cor desejada */
-}
-
-/* Outras variáveis de cor do tema podem ser alteradas aqui, se necessário */
 
