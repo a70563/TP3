@@ -39,6 +39,7 @@ A WINRAR adota práticas sustentáveis e envolve-se em projetos de responsabilid
 ### Capítulo 9: A Rede Nacional (2023)
 O sonho inicial de Ricardo Silva atinge seu auge quando a WINRAR estabelece sua presença em todo o país. Com nove oficinas estrategicamente distribuídas, a empresa se torna uma referência nacional em serviços automotivos, mantendo a qualidade que a tornou famosa desde o início.
 
+![nacional](https://cdn.discordapp.com/attachments/722820894342381688/1189700611382448188/nacional1.png?ex=659f1e09&is=658ca909&hm=39f4af7195d4fa15e9724bed8d1d644cee4eae9f4aa04376161fe807a5fa0c49&)
 
 
 <button onClick={() => alert('Obrigado pelo Like!')}>Like!</button>
