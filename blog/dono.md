@@ -16,6 +16,8 @@ Em 2007 com a sua primeira oficina inaugurada tudo mudou. João foi conseguindo 
 Finalmente em 2010 João decidiu abrir mais 2 oficinas em pontos estratégicos. Foi aqui que João percebeu o impacto que estava a ter.
 Atualmente, João possui 9 oficinas, sendo a última inaugurada ainda este ano (2023). <br />
 
+![oficinas](https://cdn.discordapp.com/attachments/1049372613945851975/1189714435942662144/oficinas.png?ex=659f2ae9&is=658cb5e9&hm=ea5a1e2837e799919445ce30515f02d4eff69a6a618fa004422179c7717b6cb2&)
+
 João transformou a WINRAR em uma referência regional e nacional, em serviços automotivos. A busca pela inovação, responsabilidade social e 
 paixão pelo mundo automotivo moldaram não apenas a sua carreira, mas também o sucesso duradouro da WINRAR.<br />
 
