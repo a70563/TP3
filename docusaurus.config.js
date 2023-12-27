@@ -131,12 +131,12 @@ const config = {
             title: 'Info',
             items: [
               {
-                label: 'Quem Somos',
+                label: 'Sobre Nós',
                 to: 'QuemSomos',
               },
               {
                 label: 'Contactos',
-                to: 'Contactos',
+                to: '/blog',
               },
               {
                 label: 'Horário',
