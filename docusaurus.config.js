@@ -79,8 +79,8 @@ const config = {
           },
           {to: '/blog', label: 'Sobre Nós', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'Contactos',
+            to: 'Contactos',
             position: 'right',
           },
         ],
@@ -137,6 +137,10 @@ const config = {
               {
                 label: 'Contactos',
                 to: 'Contactos',
+              },
+              {
+                label: 'Horário',
+                to: 'Horário',
               },
               {
                 label: 'Sede Oficina ',
