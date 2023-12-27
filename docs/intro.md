@@ -18,12 +18,12 @@ Contamos com uma gama abrangente de serviços, desde a manutenção básica até
 
 + [Reparação de probemas elétricos em:](/docs/Serviços/Reparação/Elétrica.md)
     + Viaturas Ligeiras;
-    + Motocilcos;
+    + Motociclos;
     + Carrinhas.
 
 + [Também fazemos serviços de rotina em:](/docs/Serviços/Reparação/Rotina.md)
     + Viaturas Ligeiras;
-    + Motocilcos;
+    + Motociclos;
     + Carrinhas.
 
 ### Revisão do seu Veiculo
