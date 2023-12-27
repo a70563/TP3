@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[1452],{7791:s=>{s.exports=JSON.parse('{"label":"servi\xe7o","permalink":"/TP3/blog/tags/servico","allTagsPath":"/TP3/blog/tags","count":1}')}}]);
