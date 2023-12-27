@@ -14,13 +14,16 @@ tags: [dono, história]
 João Pedro, o fundador e mente visionária por trás da WINRAR, nascido a 15 de Julho de 1980
 iniciou a sua jornada empreendedora em 2005 com uma visão única para o setor automotivo. Ao longo dos anos, ele liderou a expansão da empresa, enfrentando desafios econômicos com criatividade e mantendo um compromisso inabalável com a qualidade. 
 <br />
+
 Em 2007 com a sua primeira oficina inaugurada tudo mudou. João foi conseguindo estabelecer clientes leais, o que gerou uma maior reputação. 
 Finalmente em 2010 João decidiu abrir mais 2 oficinas em pontos estratégicos. Foi aqui que João percebeu o impacto que estava a ter.
 Atualmente, João possui 9 oficinas, sendo a última inaugurada ainda este ano (2023).
 <br />
+
 João transformou a WINRAR em uma referência regional e nacional, em serviços automotivos. A busca pela inovação, responsabilidade social e 
 paixão pelo mundo automotivo moldaram não apenas a sua carreira, mas também o sucesso duradouro da WINRAR.
 <br />
+
 Como líder, João cultiva uma cultura empresarial baseada no respeito mútuo, na valorização dos colaboradores e no estímulo à criatividade.
 Sua visão de longo prazo não se limita apenas ao crescimento da WINRAR, mas também à construção de um legado sustentável e socialmente responsável.
 O sucesso de João Pedro como empreendedor não é apenas uma história de triunfo comercial, mas um testemunho, dedicação e um profundo amor pelo que faz.
