@@ -36,3 +36,10 @@
   background-color: #004aac;
 }
 
+/* src/css/custom.css */
+
+/* Alterar a cor do texto na Navbar */
+.navbar a {
+  color: #ffffff; /* Substitua pela cor desejada para o texto */
+}
+
