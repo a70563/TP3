@@ -10,7 +10,7 @@ tags: [dono, história]
 
 ## História do Dono das Oficinas WINRAR
 
-O João sempre teve uma paixão por carros desde jovem. Cresceu numa pequena cidade onde a maioria das pessoas dependia dos seus veículos para o trabalho e o lazer. O pai de João era mecânico, e desde cedo, João acompanhava-o na oficina, aprendendo os segredos do funcionamento dos carros e desenvolvendo habilidades práticas. A sua oficina tornou-se conhecida pela qualidade do trabalho, preços justos e atendimento amigável. 
+O João sempre teve uma paixão por carros desde jovem. O pai do João era mecânico, e desde cedo o João acompanhava-o na oficina, aprendendo os segredos do funcionamento dos carros e desenvolvendo habilidades práticas. A oficina do seu pai tornou-se conhecida pela qualidade do trabalho, preços justos e atendimento amigável. 
 
 Durante a sua via o João tirou vários cursos e certificados relacionados com veículos automóveis que o ajudaram a tornar-se um excelent mecânico.
 A jornada de João é um exemplo de como a paixão, o trabalho árduo e o compromisso com a excelência podem levar ao sucesso.
